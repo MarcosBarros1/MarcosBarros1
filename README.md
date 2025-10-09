@@ -1,16 +1,15 @@
 
-<h1 align="center">Olá 👋, eu sou o Marcos Barros</h1>
-<h3 align="center">Entusiasta do desenvolvimento web e da inovação tecnológica!</h3>
+<h1 align="center">
+  Olá! 👋 Eu sou o Marcos Barros
+</h1>
+
+<h3 align="center">
+  👨‍💻 Desenvolvedor Web Full Stack | 🎓 Estudante de TECNOLOGIA
+</h3>
 
 - 🌱 Atualmente aprendendo: **Python, React, Node.js, PostgreSQL etc**
-
-- 👨‍💻 Meus projetos estão disponíveis em: [https://www.linkedin.com/in/marcos-barros-245286363](https://www.linkedin.com/in/marcos-barros-245286363)
-
 - 💬 pergunte-me sobre **Desenvolvimento web básico, projetos pessoais e boas práticas de programação**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 ## 📈 Github Stats
 
