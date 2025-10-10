@@ -7,7 +7,7 @@
   👨‍💻 Desenvolvedor Web Full Stack | 🎓 Estudante de TECNOLOGIA
 </h3>
 
-- 🌱 Atualmente aprendendo: **Python, React, Node.js, PostgreSQL etc**
+- 🌱 Atualmente aprendendo: **Python, React, Node.js, Typescript, PostgreSQL etc**
 - 💬 pergunte-me sobre **Desenvolvimento web básico, projetos pessoais e boas práticas de programação**
 
 
