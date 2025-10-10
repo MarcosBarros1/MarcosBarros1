@@ -22,11 +22,11 @@
 
 ### 📂 Projetos em Destaque
 
-- **[Acesso-Livre](https://github.com/SEU-USERNAME-AQUI/Acesso-Livre)** — Um sistema de mapeamento de locais acessíveis para pessoas com deficiências físicas.
+- **[Acesso-Livre](https://github.com/MarcosBarros1/Acesso-Livre)** — Um sistema de mapeamento de locais acessíveis para pessoas com deficiências físicas.
 
-- **[Sistema-de-reposicao-de-aulas](https://github.com/SEU-USERNAME-AQUI/Sistema-de-reposicao-de-aulas)** — Um sistema para gerenciamento do processo de reposição de aulas dentro do campus da FCE.
+- **[Sistema-de-reposicao-de-aulas](https://github.com/MarcosBarros1/Sistema-de-reposicao-de-aulas)** — Um sistema para gerenciamento do processo de reposição de aulas dentro do campus da FCE.
 
-- **[MVC-no-SGB](https://github.com/SEU-USERNAME-AQUI/MVC-no-SGB)** —  Um sistema de gestão de biblioteca, utilizando banco de dados local (SQLite) para persistência.
+- **[MVC-no-SGB](https://github.com/MarcosBarros1/MVC-no-SGB)** —  Um sistema de gestão de biblioteca, utilizando banco de dados local (SQLite) para persistência.
 
 ### 🚀 Tecnologias & Ferramentas
 
