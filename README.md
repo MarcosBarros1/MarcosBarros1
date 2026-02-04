@@ -7,7 +7,7 @@
   👨‍💻 Desenvolvedor Web Full Stack | 🎓 Estudante de TECNOLOGIA
 </h3>
 
-- 🌱 Atualmente aprendendo: **Python, React, Node.js, Typescript, PostgreSQL etc**
+- 🌱 Atualmente aprendendo: **React Native, React, Node.js, Typescript, PostgreSQL etc**
 - 💬 pergunte-me sobre **Desenvolvimento web básico, projetos pessoais e boas práticas de programação**
 
 
@@ -24,7 +24,7 @@
 
 - **[Acesso-Livre](https://github.com/MarcosBarros1/Acesso-Livre)** — Um sistema de mapeamento de locais acessíveis para pessoas com deficiências físicas.
 
-- **[Sistema-de-reposicao-de-aulas](https://github.com/MarcosBarros1/Sistema-de-reposicao-de-aulas)** — Um sistema para gerenciamento do processo de reposição de aulas dentro do campus da FCE.
+- **[Sistema-de-reposicao-de-aulas](https://github.com/MarcosBarros1/Sistema-de-reposicao-de-aulas)** — Um sistema para gerenciamento do processo de reposição de aulas dentro do campus IFCE Boa Viagem.
 
 - **[MVC-no-SGB](https://github.com/MarcosBarros1/MVC-no-SGB)** —  Um sistema de gestão de biblioteca, utilizando banco de dados local (SQLite) para persistência.
 
